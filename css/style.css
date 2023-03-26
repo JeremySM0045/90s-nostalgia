@@ -134,3 +134,13 @@ section:nth-last-of-type(1) {
 nav li:last-child {
     display: none;
 }
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+footer p {
+    text-align: center;
+    padding: 8px 0 8px 0;
+}
