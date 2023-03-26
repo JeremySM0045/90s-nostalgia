@@ -74,3 +74,12 @@ a:focus {
         color: purple;
         border: 2px solid purple;
 }
+
+.hero {
+    width: 100%;
+    padding: 10em 0 10em 0;
+    background-image: url("../images/greatest-90s-fashion-trends.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
