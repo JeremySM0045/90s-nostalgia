@@ -110,3 +110,15 @@ a:focus {
     color: white;
     font-style: italic;
 }
+
+.icon {
+    display: block;
+    padding: 2em 0 2em 0;
+}
+
+.icon img {
+    width: 260px;
+    float: left;
+    margin: 0 2em 0 0;
+    
+}
