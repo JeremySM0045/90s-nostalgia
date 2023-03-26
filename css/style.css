@@ -40,6 +40,7 @@ header {
     padding: 0 1.5em 0 1.5em;
 }
 
+
 nav li {
     list-style: none;
     display: inline;
@@ -97,4 +98,15 @@ a:focus {
 
 .trends {
     background-color: purple;
+}
+
+.trends figure {
+    width: 22%;
+    display: inline-block;
+    text-align: center;
+}
+
+.trends figcaption {
+    color: white;
+    font-style: italic;
 }
