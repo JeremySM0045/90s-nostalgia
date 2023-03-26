@@ -1,4 +1,14 @@
 html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+
+
+html {
     font-family: "Roboto";
     color: #222;
     line-height: 1.4;
